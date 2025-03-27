@@ -1,5 +1,5 @@
 {
-  "name": "projj",
+  "name": "@wxh/projj",
   "version": "2.1.0",
   "description": "Manage repository easily.",
   "dependencies": {
