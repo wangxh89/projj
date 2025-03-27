@@ -1,26 +1,10 @@
+本fork修复了 现有版本在windows报错的问题
+
 # Projj
 
 Manage repository easily.
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][codecov-image]][codecov-url]
-[![David deps][david-image]][david-url]
-[![Known Vulnerabilities][snyk-image]][snyk-url]
-[![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/projj.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/projj
-[travis-image]: https://img.shields.io/travis/popomore/projj.svg?style=flat-square
-[travis-url]: https://travis-ci.org/popomore/projj
-[codecov-image]: https://codecov.io/gh/popomore/projj/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/popomore/projj
-[david-image]: https://img.shields.io/david/popomore/projj.svg?style=flat-square
-[david-url]: https://david-dm.org/popomore/projj
-[snyk-image]: https://snyk.io/test/npm/projj/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/projj
-[download-image]: https://img.shields.io/npm/dm/projj.svg?style=flat-square
-[download-url]: https://npmjs.org/package/projj
 
 ## Why?
 
