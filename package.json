@@ -1,6 +1,6 @@
 {
-  "name": "@wxh/projj",
-  "version": "2.1.0",
+  "name": "@wangxh88/projj",
+  "version": "1.0.0",
   "description": "Manage repository easily.",
   "dependencies": {
     "chalk": "^3.0.0",
@@ -49,6 +49,7 @@
     "bin",
     "lib"
   ],
+  
   "repository": {
     "type": "git",
     "url": "git@github.com:popomore/projj.git"

@@ -1,4 +1,7 @@
 本fork修复了 现有版本在windows报错的问题
+npm i @wangxh88/projj -g
+projj init
+projj add git@github.com:popomore/projj.git
 
 # Projj
 
